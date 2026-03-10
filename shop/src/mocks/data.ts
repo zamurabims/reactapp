@@ -23,7 +23,7 @@ export const products: Product[] = [
     title: 'Кофемашина Deluxe',
     price: 45900,
     category: 'Бытовая техника',
-    image: 'https://images.unsplash.com/photo-1517914309068-f45f828b5529?w=400',
+    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400',
     description: 'Автоматическая, 16 видов напитков, капучинатор.',
   },
   {
@@ -47,7 +47,7 @@ export const products: Product[] = [
     title: 'Блендер PowerMix',
     price: 5490,
     category: 'Бытовая техника',
-    image: 'https://images.unsplash.com/photo-1570222094114-28a9d8896b74?w=400',
+    image: 'https://images.unsplash.com/photo-1585515320310-259814833e62?w=400',
     description: '1200 Вт, 5 скоростей, стеклянная чаша.',
   },
 ];
