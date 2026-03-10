@@ -28,6 +28,7 @@ node -v
 ## Запуск
 
 ```bash
+cd shop
 npm install
 npm start
 ```
