@@ -28,6 +28,7 @@ node -v
 ## Запуск
 
 ```bash
+git clone https://github.com/zamurabims/reactapp.git
 cd shop
 npm install
 npm start
